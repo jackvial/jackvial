@@ -1,6 +1,6 @@
 ## Kaggle Competition Expert (top 1%) | Senior Software Developer 
 
-### Kaggle
+### Kaggle ([my profile](https://www.kaggle.com/jackvial))
 Kaggle is a competitive Machine Learning and Data Science platform.
 
 - Silver Medal 🥈, 26th (top 5%) - Lyft 3D Object Detection for Autonomous Vehicles
