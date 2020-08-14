@@ -3,7 +3,7 @@
 ## I'm a Developer and Competitive Programmer
 - 🔭 I’m currently working on React Native apps
 - 🌱 I’m currently competing in the Cornell Birdcall Identification competition on Kaggle
-- 🥅 2020 Goals: Become a Kaggle Competitions Master
+- 🥅 2020 Goals: Become a Kaggle Competitions Master ([x]🥈
 - ⚡ Fun fact: I love to play guitar
 
 ### Kaggle ([my profile](https://www.kaggle.com/jackvial))
