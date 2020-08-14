@@ -3,14 +3,11 @@
 ## I'm a Developer and Competitive Programmer
 - 🔭 I’m currently working on React Native apps
 - 🌱 I’m currently competing in the Cornell Birdcall Identification competition on Kaggle
-- 🥅 2020 Goals: Become a Kaggle Competitions Master
-- [x]🥈
-- [x]🥈
+- 🥅 2020 Goals: Become a Kaggle Competitions Master (I need one gold medal to become a Comps Master)
 - ⚡ Fun fact: I love to play guitar
 
-### Kaggle ([my profile](https://www.kaggle.com/jackvial))
-Kaggle is a competitive Machine Learning and Data Science platform.
-
+### Kaggle
+- I currently hold the rank of Competition's Expert with two silver medals. ([my profile](https://www.kaggle.com/jackvial))
 - Silver Medal 🥈, 26th (top 5%) - Lyft 3D Object Detection for Autonomous Vehicles :car:
 - Silver Medal🥈, 50th (top 8%) - CERN TrackML Particle Tracking Challenge :electron:
 
