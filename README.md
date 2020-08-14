@@ -7,9 +7,9 @@
 - ⚡ Fun fact: I love to play guitar
 
 ### Kaggle
-- I currently hold the rank of Competition's Expert with two silver medals. ([my profile](https://www.kaggle.com/jackvial))
-- Silver Medal 🥈, 26th (top 5%) - Lyft 3D Object Detection for Autonomous Vehicles :car:
-- Silver Medal🥈, 50th (top 8%) - CERN TrackML Particle Tracking Challenge :electron:
+- I currently hold the rank of Competition's Expert with two silver medals. [view my profile](https://www.kaggle.com/jackvial)
+- Silver Medal 🥈, 26th (top 5%) - Lyft 3D Object Detection for Autonomous Vehicles [view](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles) :car:
+- Silver Medal🥈, 50th (top 8%) - CERN TrackML Particle Tracking Challenge [view](https://www.kaggle.com/c/trackml-particle-identification) :electron:
 
 ### Connect with me:
 
