@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack
 
-## I'm a Developer and Competitive Programmer
+## I'm a Software Developer and Kaggler
 - 🔭 I’m currently working on React Native apps
 - 🌱 I’m currently competing in the Cornell Birdcall Identification competition on Kaggle
 - 🥅 2020 Goals: Become a Kaggle Competitions Master (I need one gold medal to become a Comps Master)
