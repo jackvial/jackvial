@@ -1,9 +1,8 @@
 ### Hi there, I'm Jack
 
 ## I'm a Software Developer and Kaggler
-- 🔭 I’m currently working on React Native apps
-- 🌱 I’m currently competing in the Cornell Birdcall Identification competition on Kaggle
-- 🥅 2020 Goals: Become a Kaggle Competitions Master (I need one gold medal to become a Comps Master)
+- 🔭 I’m currently working on building an ML Computer Vision Product with PyTorch, AWS Greengrass, and Kinesis Vido Streams
+- 🥅 2021 Goals: Learn MLOps, learn Kubernetes, and Build an ML Product
 - ⚡ Fun fact: I love to play guitar
 
 ### Kaggle
