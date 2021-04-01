@@ -1,7 +1,7 @@
 ### Hi there, I'm Jack
 
 ## I'm a Software Developer and Kaggler
-- 🔭 I’m currently working on building an ML Computer Vision Product with PyTorch, AWS Greengrass, and Kinesis Vido Streams
+- 🔭 I’m currently working on building an ML Computer Vision Product with PyTorch, AWS Greengrass, and Kinesis Video Streams
 - 🥅 2021 Goals: Learn MLOps, learn Kubernetes, and Build an ML Product
 - ⚡ Fun fact: I love to play guitar
 
