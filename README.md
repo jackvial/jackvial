@@ -1,7 +1,7 @@
 ### Hi there, I'm Jack
 
 - ⛺️ 🌱  &nbsp;&nbsp; I’m currently working as a Senior Software Engineer at [Encamp](https://encamp.com)
-- 🤖 🧠  &nbsp;&nbsp; I enjoy competeting in ML competitions on [Kaggle](https://www.kaggle.com/jackvial)
+- 🤖 🧠  &nbsp;&nbsp; I enjoy competing in ML competitions on [Kaggle](https://www.kaggle.com/jackvial)
 - 🎸 ⚡  &nbsp;&nbsp; Fun fact: I love to play guitar
 
 ### Kaggle Stuff
